@@ -1,0 +1,9 @@
+ServerSocket:
+    - Used by server to declare a ServerSocket object which server needs to
+      listen to connection requests from client.
+
+Socket:
+    - Used by server to declare Socket object to send & recieve data from client.
+
+- Communicate with client = use one socket.
+-
